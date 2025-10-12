@@ -1,0 +1,9 @@
+{
+	"name": "Spotify-DataFact",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0a7cfef1-edfd-4144-888f-798bbdcd8387",
+		"tenantId": "536d2417-1991-46f2-b42a-41b26c950192"
+	}
+}
